@@ -1,0 +1,1161 @@
+{
+  "Files": [
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/Default.html",
+      "PackagePath": "staticwebassets/Default.html"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/images/a66cff90-21ff-477f-b03f-f61bc304ed1d_sam.jpg",
+      "PackagePath": "staticwebassets/images/a66cff90-21ff-477f-b03f-f61bc304ed1d_sam.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/images/be267d9f-4fa4-4566-85a2-9212c104635f_sam.jpg",
+      "PackagePath": "staticwebassets/images/be267d9f-4fa4-4566-85a2-9212c104635f_sam.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/images/ce3ef145-e179-4edd-955b-1a0586130bcb_john.png",
+      "PackagePath": "staticwebassets/images/ce3ef145-e179-4edd-955b-1a0586130bcb_john.png"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/images/d37e44be-9389-4e42-a559-87df555938e6_john.png",
+      "PackagePath": "staticwebassets/images/d37e44be-9389-4e42-a559-87df555938e6_john.png"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/images/f26b3eee-16d8-42fd-a42b-ed7370211a7a_sara.png",
+      "PackagePath": "staticwebassets/images/f26b3eee-16d8-42fd-a42b-ed7370211a7a_sara.png"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/images/john.png",
+      "PackagePath": "staticwebassets/images/john.png"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/images/noimage.jpg",
+      "PackagePath": "staticwebassets/images/noimage.jpg"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/js/CustomScript.js",
+      "PackagePath": "staticwebassets/js/CustomScript.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/README.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/README.md"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/alert.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/alert.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/alert.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/alert.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/button.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/button.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/button.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/button.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/carousel.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/carousel.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/carousel.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/carousel.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/collapse.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/collapse.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/collapse.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/collapse.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/dropdown.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dropdown.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/dropdown.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/dropdown.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/index.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/index.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/index.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/index.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/modal.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/modal.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/modal.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/modal.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/popover.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/popover.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/popover.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/popover.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/scrollspy.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/scrollspy.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/scrollspy.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/scrollspy.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/tab.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tab.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/tab.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tab.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/toast.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/toast.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/toast.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/toast.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/tooltip.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tooltip.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/tooltip.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/tooltip.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/util.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/dist/util.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dist/util.js.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/alert.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/alert.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/button.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/button.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/carousel.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/carousel.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/collapse.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/collapse.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/dropdown.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/dropdown.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/index.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/index.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/modal.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/modal.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/popover.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/popover.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/scrollspy.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/scrollspy.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/tab.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/tab.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/toast.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/toast.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/tools/sanitizer.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/tools/sanitizer.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/tooltip.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/tooltip.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/js/src/util.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/src/util.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/package.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/package.json"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_alert.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_alert.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_badge.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_badge.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_breadcrumb.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_button-group.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_button-group.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_buttons.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_buttons.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_card.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_card.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_carousel.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_carousel.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_close.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_close.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_code.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_code.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_custom-forms.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_custom-forms.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_dropdown.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_dropdown.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_forms.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_forms.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_functions.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_functions.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_grid.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_grid.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_images.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_images.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_input-group.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_input-group.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_jumbotron.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_jumbotron.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_list-group.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_list-group.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_media.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_media.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_mixins.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_modal.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_modal.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_nav.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_nav.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_navbar.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_pagination.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_pagination.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_popover.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_popover.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_print.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_print.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_progress.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_progress.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_reboot.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_reboot.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_root.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_root.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_spinners.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_spinners.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_tables.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_tables.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_toasts.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_toasts.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_tooltip.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_tooltip.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_transitions.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_transitions.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_type.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_type.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_utilities.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_utilities.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/_variables.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/_variables.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/bootstrap.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/bootstrap.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_alert.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_background-variant.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_background-variant.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_badge.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_caret.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_float.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_float.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_forms.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_grid-framework.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_grid-framework.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_grid.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_hover.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_image.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_image.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_lists.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_nav-divider.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_nav-divider.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_resize.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_screen-reader.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_screen-reader.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_size.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_size.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_table-row.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_table-row.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_text-emphasis.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_text-emphasis.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_text-hide.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_text-hide.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_transition.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/mixins/_visibility.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/mixins/_visibility.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_align.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_align.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_background.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_background.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_borders.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_borders.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_clearfix.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_clearfix.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_display.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_display.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_embed.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_embed.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_flex.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_flex.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_float.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_float.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_overflow.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_overflow.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_position.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_position.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_screenreaders.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_screenreaders.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_shadows.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_shadows.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_sizing.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_sizing.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_spacing.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_spacing.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_stretched-link.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_stretched-link.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_text.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_text.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/utilities/_visibility.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/utilities/_visibility.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/bootstrap/scss/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap/scss/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/AUTHORS.txt",
+      "PackagePath": "staticwebassets/lib/jquery/AUTHORS.txt"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/README.md",
+      "PackagePath": "staticwebassets/lib/jquery/README.md"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/bower.json",
+      "PackagePath": "staticwebassets/lib/jquery/bower.json"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/external/sizzle/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/external/sizzle/LICENSE.txt"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/external/sizzle/dist/sizzle.js",
+      "PackagePath": "staticwebassets/lib/jquery/external/sizzle/dist/sizzle.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/external/sizzle/dist/sizzle.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/external/sizzle/dist/sizzle.min.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/external/sizzle/dist/sizzle.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/external/sizzle/dist/sizzle.min.map"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/package.json",
+      "PackagePath": "staticwebassets/lib/jquery/package.json"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/ajax.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/ajax/jsonp.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/jsonp.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/ajax/load.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/load.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/ajax/script.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/script.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/ajax/var/location.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/var/location.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/ajax/var/nonce.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/var/nonce.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/ajax/var/rquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/var/rquery.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/ajax/xhr.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/xhr.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/attributes.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/attributes/attr.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes/attr.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/attributes/classes.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes/classes.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/attributes/prop.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes/prop.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/attributes/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes/support.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/attributes/val.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes/val.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/callbacks.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/callbacks.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/DOMEval.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/DOMEval.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/access.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/access.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/camelCase.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/camelCase.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/init.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/init.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/isAttached.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/isAttached.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/nodeName.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/nodeName.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/parseHTML.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/parseHTML.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/parseXML.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/parseXML.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/ready-no-deferred.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/ready-no-deferred.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/ready.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/ready.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/readyException.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/readyException.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/stripAndCollapse.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/stripAndCollapse.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/support.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/toType.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/toType.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/core/var/rsingleTag.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/var/rsingleTag.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/addGetHookIf.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/addGetHookIf.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/adjustCSS.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/adjustCSS.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/curCSS.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/curCSS.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/finalPropName.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/finalPropName.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/showHide.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/showHide.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/support.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/var/cssExpand.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/cssExpand.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/var/getStyles.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/getStyles.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/var/isHiddenWithinTree.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/isHiddenWithinTree.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/var/rboxStyle.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/rboxStyle.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/var/rnumnonpx.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/rnumnonpx.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/css/var/swap.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/swap.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/data.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/data/Data.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data/Data.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/data/var/acceptData.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data/var/acceptData.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/data/var/dataPriv.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data/var/dataPriv.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/data/var/dataUser.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data/var/dataUser.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/deferred.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/deferred.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/deferred/exceptionHook.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/deferred/exceptionHook.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/deprecated.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/deprecated.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/deprecated/ajax-event-alias.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/deprecated/ajax-event-alias.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/deprecated/event.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/deprecated/event.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/dimensions.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/dimensions.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/effects.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/effects.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/effects/Tween.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/effects/Tween.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/effects/animatedSelector.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/effects/animatedSelector.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/event.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/event.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/event/focusin.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/event/focusin.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/event/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/event/support.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/event/trigger.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/event/trigger.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/exports/amd.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/exports/amd.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/exports/global.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/exports/global.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/jquery.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/manipulation.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/manipulation/_evalUrl.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/_evalUrl.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/manipulation/buildFragment.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/buildFragment.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/manipulation/getAll.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/getAll.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/manipulation/setGlobalEval.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/setGlobalEval.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/manipulation/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/support.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/manipulation/var/rscriptType.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/var/rscriptType.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/manipulation/var/rtagName.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/var/rtagName.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/manipulation/wrapMap.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/wrapMap.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/offset.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/offset.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/queue.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/queue.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/queue/delay.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/queue/delay.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/selector-native.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/selector-native.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/selector-sizzle.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/selector-sizzle.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/selector.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/selector.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/serialize.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/serialize.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/traversing.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/traversing.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/traversing/findFilter.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/traversing/findFilter.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/traversing/var/dir.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/traversing/var/dir.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/traversing/var/rneedsContext.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/traversing/var/rneedsContext.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/traversing/var/siblings.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/traversing/var/siblings.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/ObjectFunctionString.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/ObjectFunctionString.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/arr.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/arr.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/class2type.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/class2type.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/document.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/document.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/documentElement.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/documentElement.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/flat.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/flat.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/fnToString.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/fnToString.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/getProto.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/getProto.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/hasOwn.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/hasOwn.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/indexOf.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/indexOf.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/isFunction.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/isFunction.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/isWindow.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/isWindow.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/pnum.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/pnum.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/push.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/push.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/rcheckableType.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/rcheckableType.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/rcssNum.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/rcssNum.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/rnothtmlwhite.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/rnothtmlwhite.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/slice.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/slice.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/support.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/var/toString.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/toString.js"
+    },
+    {
+      "Id": "/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement/wwwroot/lib/jquery/src/wrap.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/wrap.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.EmployeeManagement.props",
+      "PackagePath": "build\\EmployeeManagement.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EmployeeManagement.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeManagement.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EmployeeManagement.props",
+      "PackagePath": "buildTransitive\\EmployeeManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
