@@ -1,0 +1,17 @@
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/bin/Debug/net8.0/EmployeeManagement.DataAccess.deps.json
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/bin/Debug/net8.0/EmployeeManagement.DataAccess.runtimeconfig.json
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/bin/Debug/net8.0/EmployeeManagement.DataAccess.dll
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/bin/Debug/net8.0/EmployeeManagement.DataAccess.pdb
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/bin/Debug/net8.0/EmployeeManagement.Models.dll
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/bin/Debug/net8.0/EmployeeManagement.Models.pdb
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/EmployeeManagement.DataAccess.csproj.AssemblyReference.cache
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/EmployeeManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/EmployeeManagement.DataAccess.AssemblyInfoInputs.cache
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/EmployeeManagement.DataAccess.AssemblyInfo.cs
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/EmployeeManagement.DataAccess.csproj.CoreCompileInputs.cache
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/Employee.84AFBD48.Up2Date
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/EmployeeManagement.DataAccess.dll
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/refint/EmployeeManagement.DataAccess.dll
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/EmployeeManagement.DataAccess.pdb
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/EmployeeManagement.DataAccess.genruntimeconfig.cache
+/home/dhiraj/projects/dotnet/kud/dotnet-core/EmployeeManagement.DataAccess/obj/Debug/net8.0/ref/EmployeeManagement.DataAccess.dll
